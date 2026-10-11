@@ -39,26 +39,6 @@ This repository contains my second Python programming assignment, focusing on fu
 - **Concepts:** Data Structures, Operators, Conditional Statements
 - **Tools:** Jupyter Notebook
 
-## How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone <your-repository-url>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd python-assignment-2-data-structures
-   ```
-
-3. Run the Python file:
-
-   ```bash
-   python assignment2.py
-   ```
-
 ## Learning Outcomes
 
 - Understand how Python lists, dictionaries, and sets store and manipulate data.
